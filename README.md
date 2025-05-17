@@ -15,3 +15,5 @@ https://github.com/user-attachments/assets/da295347-0d6c-4996-8ffd-aad22f5436c7
 
 - Pure **HTML5**
 - (Possibly using SVG or Canvas tags in the HTML)
+  
+Built with 💛 by Qudsiya ZamZam
